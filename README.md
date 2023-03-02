@@ -4,7 +4,7 @@ Hi I am New to the field of Datascience, I'm starting my journey  from 100 days 
 
 Day-0 01-03-2023
 
-Installing the Required Application and creating a GITHUB REPO
+  1.Installing the Required Application and creating a GITHUB REPO
 
 
 DAY-1   02-03-2023
