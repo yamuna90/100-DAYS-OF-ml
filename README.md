@@ -24,10 +24,12 @@ https://app.datacamp.com/learn/courses/understanding-data-science
 
 Day-3
 
-started a course on @DataCamp  Statistics track (On-Going )
+started a course on @DataCamp  Statistics  fundamentals 
 
-app.datacamp.com/learn/skill-tr…
-&&&
-Introduction To Probability And Statistics (MIT Opencourseware)@mitopenlearning 
-ocw.mit.edu/courses/18-05-…
+https://www.datacamp.com/tracks/statistics-fundamentals-with-python
+
+ Introduction to statistics and probability  -MIT OPENWARE COURSE 
+
+https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2014/
+
 
