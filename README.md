@@ -21,3 +21,13 @@ Understanding the data science from DATACAMP
  
 https://app.datacamp.com/learn/courses/understanding-data-science
 
+
+Day-3
+
+started a course on @DataCamp  Statistics track (On-Going )
+
+app.datacamp.com/learn/skill-tr…
+&&&
+Introduction To Probability And Statistics (MIT Opencourseware)@mitopenlearning 
+ocw.mit.edu/courses/18-05-…
+
